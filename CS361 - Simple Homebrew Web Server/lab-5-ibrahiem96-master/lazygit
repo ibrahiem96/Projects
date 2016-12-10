@@ -1,0 +1,11 @@
+#!/bin/bash
+# lazygit script to run add commit and push
+
+set -x
+set -e
+
+read MESSAGE
+
+git add -A
+git commit -m "$MESSAGE"
+git push origin submission
