@@ -1,0 +1,10 @@
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\bin\Debug\hw5.exe.config
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\bin\Debug\hw5.XML
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\bin\Debug\hw5.exe
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\bin\Debug\hw5.pdb
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\bin\Debug\FSharp.Core.dll
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\bin\Debug\nunit.framework.dll
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\bin\Debug\FSharp.Core.xml
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\bin\Debug\nunit.framework.xml
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\obj\Debug\hw5.exe
+C:\Users\Ibrahiem Mohammad\Desktop\hw5-functions\hw5-functions\obj\Debug\hw5.pdb
